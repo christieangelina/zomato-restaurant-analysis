@@ -1,7 +1,7 @@
 # Zomato Restaurant Analysis
 
 ## Project Overview
-This project analyzes Zomato restaurant data using SQL, Python, and Power BI.
+This project analyzes Zomato restaurant data using SQL, Python, and Power BI to identify restaurant trends, ratings, and customer preferences.
 
 ## Tools Used
 - SQL
@@ -9,23 +9,21 @@ This project analyzes Zomato restaurant data using SQL, Python, and Power BI.
 - Jupyter Notebook
 - Power BI
 
-## Project Objectives
-1. Identify the highest-rated cuisines.
-2. Analyze restaurants by location.
-3. Compare online orders with restaurant ratings.
-4. Analyze restaurant types and ratings.
-5. Identify the best-value locations.
+## Business Questions
+1. Which cuisines have the highest average ratings?
+2. Which locations have the most restaurants, and what is their average cost?
+3. How does online ordering relate to restaurant ratings?
+4. What is the distribution of restaurant types and their average ratings?
+5. Which neighbourhoods offer the best value for money?
+
+## Project Structure
+- SQL: SQL queries and analysis
+- Python: Data analysis notebook
+- Power BI: Interactive dashboard
+- Screenshots: Project evidence
 
 ## Project Status
-SQL Analysis: Completed
-Python Analysis: Completed
-Power BI Dashboard: Completed
-
-## Project Files
-- SQL queries
-- Python notebook
-- Power BI dashboard
-- Project screenshots
+SQL, Python, and Power BI files will be uploaded to this repository.
 
 ## Author
-Christie Angelina N
+Your Name
